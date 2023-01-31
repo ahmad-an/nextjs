@@ -11,7 +11,7 @@ export default function Home() {
     {/* <div className={styles.hellodiv}> */}
     <div className={styles.divhello}>
       <h1>Hello World! from Ahmad</h1>
-      <h5>My First Nextjs App deploed at Vercel </h5>
+      <h5>My First Nextjs App deployed at Vercel </h5>
     </div>
     {/* </div> */}
     </>
